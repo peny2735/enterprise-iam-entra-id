@@ -71,11 +71,11 @@ A final review of Global Administrator assignments confirmed that only the desig
 
 ### Evidence
 
-- `01-excessive-global-admin-privilege.png`
-- `02-least-privilege-remediation.png`
-- `03-global-admin-removal-audit-log.png`
-- `04-helpdesk-role-assignment-audit-log.png`
-- `05-helpdesk-role-verification.png`
+- [Excessive Global Administrator privileges](screenshots/01-excessive-global-admin-privilege.png)
+- [Least-privilege remediation](screenshots/02-least-privilege-remediation.png)
+- [Global Administrator removal audit log](screenshots/03-global-admin-removal-audit-log.png)
+- [Helpdesk Administrator role assignment audit log](screenshots/04-helpdesk-role-assignment-audit-log.png)
+- [Helpdesk role verification](screenshots/05-helpdesk-role-verification.png)
 
 ## 3. Helpdesk Permission Testing
 
@@ -106,9 +106,9 @@ Additionally, an attempt to access organization-wide audit logs while signed in 
 
 ### Evidence
 
-- `06-standard-user-password-reset.png`
-- `07-privileged-account-role-verification.png`
-- `08-helpdesk-audit-log-access-denied.png`
+- [Successful standard-user password reset](screenshots/06-standard-user-password-reset.png)
+- [Global Administrator role verification](screenshots/07-privileged-account-role-verification.png)
+- [Helpdesk audit log access denied](screenshots/08-helpdesk-audit-log-access-denied.png)
 
 ## 4. Audit Logging and Monitoring
 
@@ -130,8 +130,8 @@ This exercise demonstrated how audit logs can support administrative accountabil
 
 ### Evidence
 
-- `09-password-reset-audit-activity.png`
-- `10-password-reset-audit-target.png`
+- [Password reset audit activity](screenshots/09-password-reset-audit-activity.png)
+- [Password reset audit target](screenshots/10-password-reset-audit-target.png)
 
 ## 5. Multifactor Authentication (MFA)
 
@@ -161,9 +161,9 @@ A separate sign-in test successfully verified Microsoft Authenticator's number-m
 
 ### Evidence
 
-- `11-security-defaults-enabled.png`
-- `12-helpdesk-mfa-registration.png`
-- `13-mfa-signin-verification.png`
+- [Security Defaults enabled](screenshots/11-security-defaults-enabled.png)
+- [Microsoft Authenticator registration](screenshots/12-helpdesk-mfa-registration.png)
+- [MFA sign-in verification](screenshots/13-mfa-signin-verification.png)
 
 ## 6. Project Limitations
 
